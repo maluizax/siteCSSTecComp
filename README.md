@@ -2,7 +2,7 @@
 <ul>
 <li>Este projeto foi desenvolvido apenas em HTML e CSS;</li>
 <li>A finalidade de criação do projeto é puramente acadêmica;</li> 
-<li>Link para o site:  </li>
+<li>Desenvolvido por: Maria Luiza Rodrigues dos Anjos</li>
 </ul>
 
 <h2> ➔ Descrição do Site 💻 </h2>
